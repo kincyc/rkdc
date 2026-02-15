@@ -22,7 +22,7 @@ const Navigation = () => {
           className="font-heading text-xl font-bold tracking-tight text-foreground"
           onClick={handleClick}
         >
-          Rachel D.K. Clark
+          RDKC
         </a>
 
         {/* Desktop nav */}
