@@ -7,6 +7,7 @@ const navLinks = [
   { label: "Workshops", href: "#workshops" },
   { label: "About", href: "#about" },
   { label: "Book Rachel", href: "#contact" },
+  { label: "Blog", href: "#blog" },
 ];
 
 const Navigation = () => {
